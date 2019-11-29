@@ -1,85 +1,85 @@
 <resources>
     <string name="app_name">Nots In Notch</string>
     <string name="title_activity_main">Nots In Notch</string>
-    <string name="accessibility_service_description">Not Used</string>
+    <string name="accessibility_service_description">Tidak Digunakan</string>
 
-    <string name="check">Check Permissions</string>
+    <string name="check">Cek Perizinan</string>
 
-    <string name="snooze_notif">Snooze notification thanks to iboalali <a href="https://github.com/iboalali/sysnotifsnooze/blob/master/LICENSE">LICENSE</a></string>
+    <string name="snooze_notif">Snooze notifikasi Oleh iboalali <a href="https://github.com/iboalali/sysnotifsnooze/blob/master/LICENSE">Hak Izin</a></string>
     <string name="xda_page"><a href="https://forum.xda-developers.com/showpost.php?p=79021757">xda page</a></string>
-    <string name="col_picker">Color Picker thanks to jaredrummled <a href="https://github.com/jaredrummler/ColorPicker/blob/master/LICENSE">LICENSE</a></string>
-    <string name="y_padding">top padding</string>
-    <string name="icon_size">Icon size</string>
-    <string name="pro_version">PRO VERSION</string>
-    <string name="iconcolor_pro">IconColor</string>
-    <string name="background_pro">Background</string>
-    <string name="none">None</string>
-    <string name="circle">Circle</string>
-    <string name="square">Square</string>
-    <string name="squircle">Squircle</string>
-    <string name="outline">Outline</string>
-    <string name="auto_hide_on_fullscreen">Auto-hide on Fullscreen</string>
-    <string name="write_storage_permission">Write Storage Permission</string>
+    <string name="col_picker">Pewarnaan Oleh jaredrummled <a href="https://github.com/jaredrummler/ColorPicker/blob/master/LICENSE">LICENSE</a></string>
+    <string name="y_padding">Jarak Atas</string>
+    <string name="icon_size">Ukuran Icon</string>
+    <string name="pro_version">VERSI Pro</string>
+    <string name="iconcolor_pro">Warna Icon</string>
+    <string name="background_pro">Latar</string>
+    <string name="none">Tidak Ada</string>
+    <string name="circle">Bundar</string>
+    <string name="square">Kotak</string>
+    <string name="squircle">Kotak Bundar</string>
+    <string name="outline">Garis Luar</string>
+    <string name="auto_hide_on_fullscreen">Automatis Sembunyi Layar Penuh</string>
+    <string name="write_storage_permission">Akses Menulis di Penyimpanan</string>
     <string name="go">Set</string>
-    <string name="remove_battery_limitations_and_grant_boot_permission">Remove Battery Limitations and Grant Boot Permission</string>
-    <string name="notification_access_enable">Give the permission to gather Notifications, this is needed for proper work</string>
-    <string name="overlay_enable">Give the permission to show over other apps, this is needed for proper work</string>
-    <string name="purchase_thanks">Thanks for your support! Now you have pro features!</string>
-    <string name="purchase_failed">Error in the purchase, retry</string>
-    <string name="purchase_canceled">User cancelled transaction</string>
+    <string name="remove_battery_limitations_and_grant_boot_permission">Hapus Battere Limitasi dan Izinkan Pada Saat Memulai Perangkat</string>
+    <string name="notification_access_enable">Berikan Izin untuk Mengumpulkan Notifikasi, Sangat dibutuhkan agar bekerja dengan baik</string>
+    <string name="overlay_enable">Berikan izin untuk Muncul pada aplikasi lainnya, Sangat dibutuhkan agar bekerja dengan baik</string>
+    <string name="purchase_thanks">Terimakasih atas dukungannya! Sekarang aplikasi anda Pro!</string>
+    <string name="purchase_failed">Kesalahan saat mengambil data pembelian, Ulangi</string>
+    <string name="purchase_canceled">Pengguna menggagalkan transaksi</string>
     <string name="credits">Credits</string>
 
-    <string name="test">TEST</string>
-    <string name="x_padding">left padding</string>
-    <string name="select">Select</string>
-    <string name="privacy_policy">Privacy Policy</string>
-    <string name="refunded">The order has been refunded, so it is no more available</string>
+    <string name="test">TES</string>
+    <string name="x_padding">Jarak Kiri</string>
+    <string name="select">Pilih</string>
+    <string name="privacy_policy">Kebijakan Privasi</string>
+    <string name="refunded">Pengembalian Dana, Tidak ada lagi</string>
     <string name="faq">FAQ</string>
-    <string name="title_activity_hide">Hide</string>
-    <string name="app_intro">App Intro thanks to many <a href="https://github.com/AppIntro/AppIntro/blob/master/LICENSE">LICENSE</a></string>
-    <string name="gif_images">Gif Images thanks to felipecsl <a href="https://github.com/felipecsl/GifImageView/blob/master/LICENSE">LICENSE</a></string>
-    <string name="navigation">Space Navigation thanks to armcha <a href="https://github.com/armcha/Space-Navigation-View#license">LICENSE</a></string>
-    <string name="right_side_setup">Right Side Setup</string>
-    <string name="use_right_side">Use Right Side</string>
-    <string name="system_icons">System Icons</string>
+    <string name="title_activity_hide">sembunyikan</string>
+    <string name="app_intro">App Intro Terimakasih Kepada<a href="https://github.com/AppIntro/AppIntro/blob/master/LICENSE">LICENSE</a></string>
+    <string name="gif_images">Gambar Gif oleh felipecsl <a href="https://github.com/felipecsl/GifImageView/blob/master/LICENSE">LICENSE</a></string>
+    <string name="navigation">Navigasi oleh armcha <a href="https://github.com/armcha/Space-Navigation-View#license">LICENSE</a></string>
+    <string name="right_side_setup">Posisi Kanan</string>
+    <string name="use_right_side">Gunakan posisi kanan</string>
+    <string name="system_icons">Icon Sistem</string>
     <string name="wi_fi">Wi-Fi</string>
     <string name="hotspot">Hotspot</string>
     <string name="gps">GPS</string>
     <string name="bluetooth">Bluetooth</string>
-    <string name="do_not_disturb">Do Not Disturb</string>
-    <string name="show_system_info">Show System Info</string>
-    <string name="show_more_icons">Show More Icons</string>
-    <string name="other_setup">Other Setup</string>
-    <string name="use_horizontal_after_rotation">Use Horizontal after rotation</string>
-    <string name="hide_notifications">Hide notifications</string>
-    <string name="show_on_lockscreen_early_beta">Show on Lockscreen (Beta)</string>
-    <string name="show">Show</string>
-    <string name="remove_notchtest_vibration_and_allow_on_lockscreen">Remove Nots In Notch vibration and allow on lockscreen,you can enable led and autoscreen on</string>
-    <string name="collapse_per_package">Only 1 icon per app</string>
-    <string name="gestures">Gestures</string>
-    <string name="navigation_bar">Navigation Bar</string>
-    <string name="natural_colors">Original Colors</string>
-    <string name="hiding_setup">Hiding Setup</string>
-    <string name="which_navigation_type_do_you_use_used_for_fullscreen_hide">Which navigation type do you use? Used for fullscreen hide</string>
-    <string name="colors_and_shape">Colors and Shape</string>
-    <string name="portrait_orientation">Portrait orientation</string>
-    <string name="icon_number">Icon Number</string>
-    <string name="horizontal_orientation">Horizontal orientation</string>
+    <string name="do_not_disturb">Jangan Ganggu</string>
+    <string name="show_system_info">Lihat info Sistem</string>
+    <string name="show_more_icons">Perlihatkan Icon Lebih</string>
+    <string name="other_setup">Pengaturan Lainnya</string>
+    <string name="use_horizontal_after_rotation">Gunakan Horizontal setelah rotasi</string>
+    <string name="hide_notifications">Sembunyikan notifikasi</string>
+    <string name="show_on_lockscreen_early_beta">Perlihatkan di Lockscreen (Beta)</string>
+    <string name="show">Lihat</string>
+    <string name="remove_notchtest_vibration_and_allow_on_lockscreen">Hapus Nots In Notch vibrasi and izikan di lockscreen,lampu led dapat dihidupkan and layar automatis hidup</string>
+    <string name="collapse_per_package">Hanya 1 icon per app</string>
+    <string name="gestures">Sentuhan</string>
+    <string name="navigation_bar">Tombol Navigasi</string>
+    <string name="natural_colors">Warna Original</string>
+    <string name="hiding_setup">Pengaturan Tersembunyi</string>
+    <string name="which_navigation_type_do_you_use_used_for_fullscreen_hide">Navigasi Apa yang digunakan? untuk di sembunyikan ketika layar penuh</string>
+    <string name="colors_and_shape">Warna dan Garis</string>
+    <string name="portrait_orientation">Posisi Datar</string>
+    <string name="icon_number">Nomor Icon</string>
+    <string name="horizontal_orientation">Posisi Miring</string>
     <string name="horizontal">Horizontal</string>
     <string name="vertical">Vertical</string>
-    <string name="right_side">Right side</string>
-    <string name="align">Align</string>
-    <string name="left">Left</string>
-    <string name="right">Right</string>
-    <string name="horizontal_padding">Horizontal padding</string>
-    <string name="permission_needed">Permission Needed</string>
+    <string name="right_side">Bagian Kanan</string>
+    <string name="align">Tengah</string>
+    <string name="left">Kiri</string>
+    <string name="right">Kanan</string>
+    <string name="horizontal_padding">Posisi Horizontal</string>
+    <string name="permission_needed">Dibutuhkan Izin</string>
     <string name="vpn">VPN</string>
-    <string name="clean_ram">Clean RAM</string>
-    <string name="swipe_manually">Swipe Manually</string>
-    <string name="lock_in_ram">Lock in RAM</string>
-    <string name="position">POSITION</string>
-    <string name="visual">VISUAL</string>
-    <string name="settings">SETTINGS</string>
+    <string name="clean_ram">Hapus RAM</string>
+    <string name="swipe_manually">Geser Manual</string>
+    <string name="lock_in_ram">Kunci di RAM</string>
+    <string name="position">POSISI</string>
+    <string name="visual">VISUAl</string>
+    <string name="settings">Pengaturan</string>
     <string name="pro">PRO</string>
 
 
